@@ -1,0 +1,11 @@
+api:
+   name: zean-api-dev
+third:
+   baidu: 
+      url: dev.www.baidu.com
+      appId: 1001
+      appkey： XXXXXXXX
+   google:
+      url: dev.www.google.com
+      appId: 100001
+      appKey: uuuuuuuu
