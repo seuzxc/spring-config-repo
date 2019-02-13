@@ -4,7 +4,7 @@ third:
    baidu: 
       url: dev.www.baidu.com
       appId: 1001
-      appkey： XXXXXXXX
+      appkey: XXXXXXXX
    google:
       url: dev.www.google.com
       appId: 100001
